@@ -276,21 +276,18 @@ CREATE TABLE fees (
 ## 🖼️ Screenshots
 
 ### Login Page
-*(Place Login Mockup Here)*
+
+<img width="1068" height="1146" alt="image" src="https://github.com/user-attachments/assets/c37f8d44-2047-4469-8f8d-f90ae54c00ca" />
 
 ### System Dashboard
   <img width="2048" height="1141" alt="5f0a063e-62c5-4e44-bc70-1127598d8b13" src="https://github.com/user-attachments/assets/fc776987-1c56-466e-bacc-79c414d386cb" />
 
 
 
-### Student Directory Manager
-*(Place Student Manager/Search UI Here)*
+<img width="2048" height="1128" alt="90428df8-516b-4f17-b62e-90d434530953" src="https://github.com/user-attachments/assets/cfa68601-6166-495a-b2ff-b8061712052f" />
+ <img width="2047" height="1047" alt="dbeb24ff-b854-4d36-9ac3-371e082310b9" src="https://github.com/user-attachments/assets/fb1ada63-0687-488f-b5ef-ffaa64b4b576" />
+<img width="2048" height="1029" alt="dd78fd44-91ed-4322-9ed0-0f09a8295d1e" src="https://github.com/user-attachments/assets/eca3eb3b-4185-4f43-bf0a-65f2332049e4" />
 
-### Attendance Ledger
-*(Place Batch Attendance marking Grid Screenshot Here)*
-
-### Financial Statistics Dashboard
-*(Place Collected vs Pending statistics screenshot here)*
 
 ---
 
