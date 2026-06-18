@@ -279,7 +279,9 @@ CREATE TABLE fees (
 *(Place Login Mockup Here)*
 
 ### System Dashboard
-*(Place Admin/Student Dashboard Screenshot Here)*
+  <img width="2048" height="1141" alt="5f0a063e-62c5-4e44-bc70-1127598d8b13" src="https://github.com/user-attachments/assets/fc776987-1c56-466e-bacc-79c414d386cb" />
+
+
 
 ### Student Directory Manager
 *(Place Student Manager/Search UI Here)*
