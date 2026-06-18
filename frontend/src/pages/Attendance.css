@@ -1,0 +1,28 @@
+.tile-present {
+  background-color: rgba(34, 197, 94, 0.2) !important;
+  color: #166534 !important;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.tile-absent {
+  background-color: rgba(239, 68, 68, 0.2) !important;
+  color: #991b1b !important;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.react-calendar {
+  width: 100% !important;
+  max-width: 500px;
+  background: white;
+  border: none !important;
+  border-radius: 12px;
+  font-family: inherit !important;
+}
+
+.react-calendar__navigation button {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: var(--text-color);
+}
